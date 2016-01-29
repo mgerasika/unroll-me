@@ -1,0 +1,174 @@
+﻿
+body { padding: 0px;margin: 0px;}
+/*
+.bg {
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    background-image: url('img/bg.png');
+    position: relative;
+    user-select: none;
+    width: 100%;
+}
+
+.checkFontSize {
+    position: absolute;
+    left: -999px;
+    top: -999px;
+}
+
+.item {
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    display: block;
+    left: -999;
+    position: absolute;
+    text-align: center;
+    top: -999;
+    vertical-align: middle;
+    width: 10em;
+    height: 10em;
+    border: 1px solid white;
+}
+
+.item.active { background-color: #efefef; }
+
+.leftToBottomItem { background-image: url('img/leftToBottom.png'); }
+
+.leftToRightItem { background-image: url('img/leftToRight.png'); }
+
+.rightToBottomItem { background-image: url('img/rightToBottom.png'); }
+
+.topToBottomItem { background-image: url('img/topToBottom.png'); }
+
+.topToLeftItem { background-image: url('img/topToLeft.png'); }
+
+.topToRightItem { background-image: url('img/topToRight.png'); }
+
+.leftToBottomItemFixed { background-image: url('img/leftToBottomFixed.png'); }
+
+.leftToRightItemFixed { background-image: url('img/leftToRightFixed.png'); }
+
+.rightToBottomItemFixed { background-image: url('img/rightToBottomFixed.png'); }
+
+.topToBottomItemFixed { background-image: url('img/topToBottomFixed.png'); }
+
+.topToLeftItemFixed { background-image: url('img/topToLeftFixed.png'); }
+
+.topToRightItemFixed { background-image: url('img/topToRightFixed.png'); }
+
+
+.startTopItem {
+    background-image: url('img/startTopItem.png');
+}
+.startBottomItem {
+    background-image: url('img/startBottomItem.png');
+}
+.startLeftItem {
+    background-image: url('img/startLeftItem.png');
+}
+.startRightItem {
+    background-image: url('img/startRightItem.png');
+}
+
+.finishTopItem {
+    background-image: url('img/finishTopItem.png');
+}
+.finishBottomItem {
+    background-image: url('img/finishBottomItem.png');
+}
+.finishLeftItem {
+    background-image: url('img/finishLeftItem.png');
+}
+.finishRightItem {
+    background-image: url('img/finishRightItem.png');
+}
+
+.button {
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 30px;
+    margin: 2px;
+    width: 30px;
+}
+
+.ball {
+    background-image: url('img/ball.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    display: block;
+    font-weight: bold;
+    height: 3.3em;
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+    width: 3.3em;
+}
+    */
+     body {
+         width: 180px;
+         border: 1px solid black;
+     }
+.button {
+    cursor: pointer;
+    float: right;
+    display: block;
+    margin: 2px;
+    background-color: #eee;
+    padding: 4px;
+    border: 1px solid black;
+}
+.textbox {
+    border: 1px solid black;
+    float: left;
+    display: block;
+    margin: 4px;
+    width: 100px;
+}
+.area {
+    border: 1px solid black;
+    clear: both;
+    display: block;
+    margin: 2px;
+    height: 60px;
+    overflow: auto;
+}
+
+.table {
+    width: 100%;
+    height: 100%;
+}
+.table .tableCell {
+    width: 5em;
+    height: 5em;
+    background-color: #eee;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table .tableCell0 {
+    background-color: red;
+}
+.table .tableCellX {
+    background-color: orange;
+}
+
+.turn {
+    width: 100px;
+    height: 50px;  
+}
+.myTurn {
+    background-color: green;
+}
+.notMyTurn {
+    background-color: red;
+}

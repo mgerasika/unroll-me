@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest SkcVersion="5.4.4" DefinedSymbols="TRACE;DEBUG">
+  <SkcFile Filename="C:\Windows\Microsoft.NET\Framework\v4.0.30319\SharpKit\5\skc5.exe" Modified="-8587822053758108810" />
+  <SourceFiles>
+    <ManifestFile Filename="app.cs" Modified="-8587817485942625643" />
+    <ManifestFile Filename="ball.cs" Modified="-8587817485942625643" />
+    <ManifestFile Filename="data\objectEx.cs" Modified="-8587817486100954699" />
+    <ManifestFile Filename="program.cs" Modified="-8587820297279127400" />
+    <ManifestFile Filename="data\response.cs" Modified="-8587817486356689326" />
+    <ManifestFile Filename="core\commet.cs" Modified="-8587817485554173425" />
+    <ManifestFile Filename="data\request.cs" Modified="-8587817485554213427" />
+    <ManifestFile Filename="level.cs" Modified="-8587821076515005351" />
+    <ManifestFile Filename="map.cs" Modified="-8587817485942615642" />
+    <ManifestFile Filename="ESlide.cs" Modified="-8587821153447727963" />
+    <ManifestFile Filename="point.cs" Modified="-8587821152973756442" />
+    <ManifestFile Filename="Default.aspx.cs" Modified="-8587822052817898629" />
+    <ManifestFile Filename="Default.aspx.designer.cs" Modified="-8587822052817798628" />
+    <ManifestFile Filename="core\js.cs" Modified="-8587817485942635644" />
+    <ManifestFile Filename="itemBase.cs" Modified="-8587817485942615642" />
+    <ManifestFile Filename="Properties\AssemblyInfo.cs" Modified="-8587821830087528795" />
+    <ManifestFile Filename="client.cs" Modified="-8587817467870982004" />
+    <ManifestFile Filename="C:\Users\Mykhaylo Herasika\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cs" Modified="-8588087893281942258" />
+  </SourceFiles>
+  <ContentFiles>
+    <ManifestFile Filename="Default.aspx" Modified="-8587820054101858456" />
+    <ManifestFile Filename="img\ball.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\bg.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\finishBottomItem.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\finishLeftItem.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\finishRightItem.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\finishTopItem.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\leftToBottom.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\leftToBottomFixed.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\leftToRight.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\leftToRightFixed.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\rightToBottom.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\rightToBottomFixed.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\startBottomItem.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\startLeftItem.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\startRightItem.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\startTopItem.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\topToBottom.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\topToBottomFixed.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\topToLeft.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\topToLeftFixed.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\topToRight.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="img\topToRightFixed.png" Modified="-8587821072974775808" />
+    <ManifestFile Filename="res\commet.js" Modified="-8587817523575048094" />
+    <ManifestFile Filename="res\level.js" Modified="-8587821114638997336" />
+    <ManifestFile Filename="style.css" Modified="-8587817467871052008" />
+    <ManifestFile Filename="gen\default.js" Modified="-8587817467735554258" />
+    <ManifestFile Filename="res\framework.js" Modified="-8587820224278702014" />
+    <ManifestFile Filename="res\jquery-1.8.2.min.js" Modified="-8587822052819698631" />
+    <ManifestFile Filename="Web.config" Modified="-8587820325155421833" />
+  </ContentFiles>
+  <ReferencedFiles>
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.CSharp.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\SharpKit\5\Assemblies\v4.0\SharpKit.Html.dll" Modified="-8587822053760608953" />
+    <ManifestFile Filename="C:\Program Files (x86)\SharpKit\5\Assemblies\v4.0\SharpKit.JavaScript.dll" Modified="-8587822053760388941" />
+    <ManifestFile Filename="C:\Program Files (x86)\SharpKit\5\Assemblies\v4.0\SharpKit.jQuery.dll" Modified="-8587822053760168928" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Configuration.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.EnterpriseServices.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.ApplicationServices.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.Extensions.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.Services.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" Modified="-8589326733994775808" />
+    <ManifestFile Filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.Linq.dll" Modified="-8589326733994775808" />
+  </ReferencedFiles>
+  <NoneFiles>
+    <ManifestFile Filename="Web.Debug.config" Modified="-8587822052756198542" />
+    <ManifestFile Filename="Web.Release.config" Modified="-8587822052750998535" />
+  </NoneFiles>
+  <ExternalFiles />
+</Manifest>

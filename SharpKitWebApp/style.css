@@ -1,0 +1,147 @@
+﻿body {
+    padding: 0px;
+    margin: 0px;
+    width: 30em;
+    height: 30em;
+}
+
+      .tableCnt {
+    display: block;
+    width: 16em;
+    height: 16em;
+
+    background-repeat: no-repeat;
+    background-image:url('img/pole.png');
+    background-size: cover;
+}
+.table {
+}
+
+.table .tableCell {
+    height: 5em;
+    text-align: center;
+    vertical-align: middle;
+    width: 5em;
+    background-repeat: no-repeat;
+    background-size: 4.6em 4.6em;
+    background-position: center center;
+}
+
+.table .tableCell0 { background-image:url('img/o.png'); }
+
+.table .tableCellX { background-image:url('img/x.png'); }
+
+.turn {
+    height: 15px;
+    width: 100%;
+}
+
+.myTurn { background-color: green; }
+
+.notMyTurn { background-color: red; }
+
+
+/*blue*/
+.table.winn-blue-90-0  {
+    background-image: url('img/blue90.png');
+    background-repeat: no-repeat;
+    background-size: 2em 16em;
+    background-position:2em 0em;
+}
+.table.winn-blue-90-1  {
+    background-image: url('img/blue90.png');
+    background-repeat: no-repeat;
+    background-size: 2em 16em;
+    background-position:7em 0em;
+}
+
+.table.winn-blue-90-2  {
+    background-image: url('img/blue90.png');
+    background-repeat: no-repeat;
+    background-size: 2em 16em;
+    background-position:12em 0em;
+}
+.table.winn-blue-0-0  {
+    background-image: url('img/blue0.png');
+    background-repeat: no-repeat;
+    background-size: 16em 2em;
+    background-position:0em 2em;
+}
+.table.winn-blue-0-1  {
+    background-image: url('img/blue0.png');
+    background-repeat: no-repeat;
+    background-size: 16em 2em;
+    background-position:0em 7em;
+}
+.table.winn-blue-0-2  {
+    background-image: url('img/blue0.png');
+    background-repeat: no-repeat;
+    background-size: 16em 2em;
+    background-position:0em 12em;
+}
+
+.table.winn-blue-45  {
+    background-image: url('img/blue45.png');
+    background-repeat: no-repeat;
+    background-size: 16em 16em;
+    background-position:0em 0em;
+}
+
+.table.winn-blue-135  {
+    background-image: url('img/blue135.png');
+    background-repeat: no-repeat;
+    background-size: 16em 16em;
+    background-position:0em 0em;
+}
+/*red*/
+.table.winn-red-90-0  {
+    background-image: url('img/red90.png');
+    background-repeat: no-repeat;
+    background-size: 2em 16em;
+    background-position:2em 0em;
+}
+.table.winn-red-90-1  {
+    background-image: url('img/red90.png');
+    background-repeat: no-repeat;
+    background-size: 2em 16em;
+    background-position:7em 0em;
+}
+
+.table.winn-red-90-2  {
+    background-image: url('img/red90.png');
+    background-repeat: no-repeat;
+    background-size: 2em 16em;
+    background-position:12em 0em;
+}
+.table.winn-red-0-0  {
+    background-image: url('img/red0.png');
+    background-repeat: no-repeat;
+    background-size: 16em 2em;
+    background-position:0em 2em;
+}
+.table.winn-red-0-1  {
+    background-image: url('img/red0.png');
+    background-repeat: no-repeat;
+    background-size: 16em 2em;
+    background-position:0em 7em;
+}
+.table.winn-red-0-2  {
+    background-image: url('img/red0.png');
+    background-repeat: no-repeat;
+    background-size: 16em 2em;
+    background-position:0em 12em;
+}
+
+.table.winn-red-45  {
+    background-image: url('img/red45.png');
+    background-repeat: no-repeat;
+    background-size: 16em 16em;
+    background-position:0em 0em;
+}
+
+.table.winn-red-135  {
+    background-image: url('img/red135.png');
+    background-repeat: no-repeat;
+    background-size: 16em 16em;
+    background-position:0em 0em;
+}

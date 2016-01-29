@@ -1,0 +1,10 @@
+D:\Dropbox\Projects\C#\SharpKitWebApp\SharpKitWebApp\bin\SharpKitWebApp.dll
+D:\Dropbox\Projects\C#\SharpKitWebApp\SharpKitWebApp\bin\SharpKitWebApp.pdb
+D:\Dropbox\Projects\C#\SharpKitWebApp\SharpKitWebApp\bin\SharpKit.Html.dll
+D:\Dropbox\Projects\C#\SharpKitWebApp\SharpKitWebApp\bin\SharpKit.JavaScript.dll
+D:\Dropbox\Projects\C#\SharpKitWebApp\SharpKitWebApp\bin\SharpKit.jQuery.dll
+D:\Dropbox\Projects\C#\SharpKitWebApp\SharpKitWebApp\bin\SharpKit.JavaScript.xml
+D:\Dropbox\Projects\C#\SharpKitWebApp\SharpKitWebApp\bin\SharpKit.Html.xml
+D:\Dropbox\Projects\C#\SharpKitWebApp\SharpKitWebApp\bin\SharpKit.jQuery.xml
+D:\Dropbox\Projects\C#\SharpKitWebApp\SharpKitWebApp\obj\Debug\SharpKitWebApp.dll
+D:\Dropbox\Projects\C#\SharpKitWebApp\SharpKitWebApp\obj\Debug\SharpKitWebApp.pdb

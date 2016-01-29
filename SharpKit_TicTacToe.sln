@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpKitClient", "SharpKitWebApp\SharpKitClient.csproj", "{8FA7AF8F-37BB-4D0B-998E-FFEB0700AFF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcEx.4.0", "..\..\..\..\Projects\C#\MvcEx\MvcEx.4.0.csproj", "{D248B59A-568C-4A5C-84B5-8A8417D9BF77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreEx.4.0", "..\..\..\..\Projects\C#\CoreEx\CoreEx.4.0.csproj", "{760B8FFF-071C-46A8-99D2-81144144DB7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServer.4.0", "..\..\..\..\Projects\C#\HttpServer\HttpServer.4.0.csproj", "{2CF8A25E-5F98-4194-B33A-379D4AF01878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppServer", "WebSocketServer\WebSocketServer\AppServer.csproj", "{0EC8EE67-375B-4573-9C26-511ACA36FC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpKitLibrary", "SharpKitLibrary\SharpKitLibrary.csproj", "{A5818749-0E1A-43A8-9EC1-F74550460C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA7AF8F-37BB-4D0B-998E-FFEB0700AFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA7AF8F-37BB-4D0B-998E-FFEB0700AFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA7AF8F-37BB-4D0B-998E-FFEB0700AFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA7AF8F-37BB-4D0B-998E-FFEB0700AFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D248B59A-568C-4A5C-84B5-8A8417D9BF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D248B59A-568C-4A5C-84B5-8A8417D9BF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D248B59A-568C-4A5C-84B5-8A8417D9BF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D248B59A-568C-4A5C-84B5-8A8417D9BF77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760B8FFF-071C-46A8-99D2-81144144DB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760B8FFF-071C-46A8-99D2-81144144DB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760B8FFF-071C-46A8-99D2-81144144DB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760B8FFF-071C-46A8-99D2-81144144DB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF8A25E-5F98-4194-B33A-379D4AF01878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF8A25E-5F98-4194-B33A-379D4AF01878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF8A25E-5F98-4194-B33A-379D4AF01878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF8A25E-5F98-4194-B33A-379D4AF01878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC8EE67-375B-4573-9C26-511ACA36FC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC8EE67-375B-4573-9C26-511ACA36FC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC8EE67-375B-4573-9C26-511ACA36FC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC8EE67-375B-4573-9C26-511ACA36FC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5818749-0E1A-43A8-9EC1-F74550460C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5818749-0E1A-43A8-9EC1-F74550460C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5818749-0E1A-43A8-9EC1-F74550460C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5818749-0E1A-43A8-9EC1-F74550460C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
